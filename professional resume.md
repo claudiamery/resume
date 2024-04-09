@@ -62,6 +62,6 @@ BA Linguistics<br />
 California State University, Fullerton<br />
 1997 Fullerton, CA
 
-Teaching English Certificate<br />
+Teaching English TESOL Certificate<br />
 California State University, Stanislaus<br />
 1996 Turlock, CA
