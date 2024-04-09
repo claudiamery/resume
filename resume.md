@@ -44,6 +44,7 @@ Yosemite Community College District<br />
 CompTIA A+ Certification Core 1 and Core 2	June 2022<br />
 AS Business Administration<br />
 AS Business Operations<br />
+AS Computer Science Networking<br />
 AS Computer Information Systems<br />
 AS Language and Rationality<br />
 Certificates Completed: Computer Applications Specialist, Computer Network Technician, Computer Network Administrator,<br />
@@ -57,4 +58,4 @@ California State University, Fullerton<br />
 
 MS Informatics<br />
 San Jose State University<br />
-2024 San Jose, CA
+2024 (in progress) San Jose, CA
