@@ -2,35 +2,40 @@
 claudiameryj@gmail.com │ Modesto, CA 95350
 
 ## SKILLS
-•	Strong problem solving                    	•	Highly proficient in Microsoft Office and Adobe suite<br />
-•	Workflow optimization                      	•	Proficient in HTML and MySQL<br />
-•	Operating system and software upgrades      •	Update website content<br />
-•	Troubleshoot computer hardware problems    	•	Accessible text and audio/visual media<br />
-•	File recovery, backups, equipment testing  	•	Set up of specialized ADA equipment and devices
+•	Strong problem solving<br />                	
+•	Workflow optimization<br />  	
+•	Operating system and software upgrades<br />
+•	Troubleshoot computer hardware problems<br />
+•	File recovery, backups, equipment testing<br />
+•	Highly proficient in Microsoft Office and Adobe suite<br />
+•	Proficient in HTML and MySQL<br />
+•	Update website content<br />
+•	Accessible text and audio/visual media<br />
+•	Set up of specialized ADA equipment and devices
 
 ## WORK HISTORY
-Alternate Media Specialist │ Sep 2013 - Current
-Yosemite Community College District
+**Alternate Media Specialist** │ Sep 2013 - Current<br />
+Yosemite Community College District<br />
 •	Research advancement of hardware and software technologies to improve productivity and efficiency.<br />
 •	Provide computer support to staff and students and recommend software based on individual needs.<br />
 •	Establish and manage accounts for students and staff with various alternate media databases.<br />
 •	Coordinate services providing document remediation and formatting for universal access.<br />
 •	Recruitment and training of student staff to assist in providing mandated services.
 
-Volunteer in Parish Office │ Sep 2003 - Current
-Saint Jude Catholic Parish
+**Volunteer in Parish Office** │ Sep 2003 - Current<br />
+Saint Jude Catholic Parish<br />
 •	Survey current technology needs and give recommendations for purchasing equipment and software.<br />
 •	Create tutorials to train office staff, applications support on demand, in person and remote training.<br />
 •	Troubleshoot hardware, peripherals, and software, create and maintain database, and perform backups.
 
-Program Technician │ Mar 2003 - Aug 2013
-Yosemite Community College District
+**Program Technician** │ Mar 2003 - Aug 2013<br />
+Yosemite Community College District<br />
 •	Set up equipment, developed instructions for specialized software, and troubleshoot and resolve problems.<br />
 •	Fostered effective working relationships with community services agency for referral of clients.<br />
 •	Designed relational databases to enforce proper data entry and made adjustments as necessary.
 
-Instructional Assistant II │ Jan 1998 - Feb 2003
-Yosemite Community College District
+**Instructional Assistant II** │ Jan 1998 - Feb 2003<br />
+Yosemite Community College District<br />
 •	Supported student learning objectives through personalized and small group assistance.<br />
 •	Created lesson materials, visuals, and digital presentations to supplement curriculum.<br />
 •	Trained students with extreme variance in technical skills in the use of assistive technology devices.
@@ -41,7 +46,8 @@ AS Business Administration<br />
 AS Business Operations<br />
 AS Computer Information Systems<br />
 AS Language and Rationality<br />
-Certificates Completed: Computer Applications Specialist, Computer Network Technician, Computer Network Administrator, Entrepreneurship<br />
+Certificates Completed: Computer Applications Specialist, Computer Network Technician, Computer Network Administrator,<br />
+Entrepreneurship<br />
 Modesto Junior College<br />
 2011–2023 Modesto, CA
 
