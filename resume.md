@@ -11,10 +11,10 @@ claudiameryj@gmail.com │ Modesto, CA 95350
 ## WORK HISTORY
 Alternate Media Specialist │ Sep 2013 - Current
 Yosemite Community College District
-•	Research advancement of hardware and software technologies to improve productivity and efficiency.
-•	Provide computer support to staff and students and recommend software based on individual needs.
-•	Establish and manage accounts for students and staff with various alternate media databases.
-•	Coordinate services providing document remediation and formatting for universal access.
+•	Research advancement of hardware and software technologies to improve productivity and efficiency.<br />
+•	Provide computer support to staff and students and recommend software based on individual needs.<br />
+•	Establish and manage accounts for students and staff with various alternate media databases.<br />
+•	Coordinate services providing document remediation and formatting for universal access.<br />
 •	Recruitment and training of student staff to assist in providing mandated services.
 
 Volunteer in Parish Office │ Sep 2003 - Current
