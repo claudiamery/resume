@@ -41,7 +41,10 @@ Yosemite Community College District<br />
 •	Trained students with extreme variance in technical skills in the use of assistive technology devices.
 
 ## EDUCATION
-CompTIA A+ Certification Core 1 and Core 2	June 2022<br />
+MS Informatics<br />
+San Jose State University<br />
+2024 (in progress) San Jose, CA
+
 AS Business Administration<br />
 AS Business Operations<br />
 AS Computer Science Networking<br />
@@ -52,10 +55,13 @@ Entrepreneurship<br />
 Modesto Junior College<br />
 2011–2023 Modesto, CA
 
+CompTIA A+ Certification Core 1 and Core 2<br />
+June 2022
+
 BA Linguistics<br />
 California State University, Fullerton<br />
 1997 Fullerton, CA
 
-MS Informatics<br />
-San Jose State University<br />
-2024 (in progress) San Jose, CA
+Teaching English Certificate<br />
+California State University, StanislausFullerton<br />
+1996 Turlock, CA
