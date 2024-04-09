@@ -14,7 +14,7 @@ claudiameryj@gmail.com │ Modesto, CA 95350
 •	Set up of specialized ADA equipment and devices
 
 ## WORK HISTORY
-**Alternate Media Specialist** │ Sep 2013 - Current<br />
+**Alternate Media Specialist** │ Sep 2013 - Present<br />
 Yosemite Community College District<br />
 •	Research advancement of hardware and software technologies to improve productivity and efficiency.<br />
 •	Provide computer support to staff and students and recommend software based on individual needs.<br />
@@ -22,7 +22,7 @@ Yosemite Community College District<br />
 •	Coordinate services providing document remediation and formatting for universal access.<br />
 •	Recruitment and training of student staff to assist in providing mandated services.
 
-**Volunteer in Parish Office** │ Sep 2003 - Current<br />
+**Volunteer in Parish Office** │ Sep 2003 - Present<br />
 Saint Jude Catholic Parish<br />
 •	Survey current technology needs and give recommendations for purchasing equipment and software.<br />
 •	Create tutorials to train office staff, applications support on demand, in person and remote training.<br />
@@ -63,5 +63,5 @@ California State University, Fullerton<br />
 1997 Fullerton, CA
 
 Teaching English Certificate<br />
-California State University, StanislausFullerton<br />
+California State University, Stanislaus<br />
 1996 Turlock, CA
